@@ -1,4 +1,4 @@
-
+Alfred for macOS secure Helper - disk-analysis and cloud-sync offers the most advanced Alfred for macOS helper, with disk-analysis and cloud-sync. Ideal for macOS power users.
 
 
 
